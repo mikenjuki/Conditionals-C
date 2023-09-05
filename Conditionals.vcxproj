@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="CCRep.c" />
     <ClCompile Include="ifElse.c" />
+    <ClCompile Include="sentinel-control.c" />
     <ClCompile Include="Source.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
